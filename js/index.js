@@ -8,7 +8,6 @@ function diskr(a, b, c) {
 
 function quadraticEq(a, b, c) {
     const D = diskr(a, b, c);
-    console.log(D)
     if (D > 0) {
         const x1 = (-b + Math.sqrt(D)) / (2 * a);
         const x2 = (-b - Math.sqrt(D)) / (2 * a);
