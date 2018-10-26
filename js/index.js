@@ -21,7 +21,7 @@ function quadraticEq(a, b, c) {
     }
 }
 
-quadraticEq(a, b, c);
+alert (quadraticEq(a, b, c));
 
 
 
