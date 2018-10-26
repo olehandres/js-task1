@@ -1,9 +1,6 @@
-/*const a = parseFloat(prompt('Enter A'));
+const a = parseFloat(prompt('Enter A'));
 const b = parseFloat(prompt('Enter B'));
 const c = parseFloat(prompt('Enter C'));
-// const aa = 2;
-// const bb = 22;
-// const cc = 2;
 
 function diskr(a, b, c) {
     return ((b * b) - (4 * a * c));
@@ -25,19 +22,7 @@ function quadraticEq(a, b, c) {
 }
 
 quadraticEq(a, b, c);
-*/
 
-
-console.log(this);
-
-
-function blender (fruit) {
-    const juice =  fruit + ' juice';
-    return juice;
-}
-
-
-var glass = blender('orange');
 
 
 
